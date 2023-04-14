@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubHomeWork
 {
+    // 문자열을 입력받으면 단어의 갯수를 출력하기
     // 입력 : 안녕하세요. 나는 서울에 사는 홍길동입니다.
     // 출력 : 6
     internal class WordNumber
