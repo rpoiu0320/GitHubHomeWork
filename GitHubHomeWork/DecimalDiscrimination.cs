@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // 주어진 숫자가 소수인지 판별하는 solution을 완성하라.
         /* static bool IsPrime(int n)
         {} 
         */
