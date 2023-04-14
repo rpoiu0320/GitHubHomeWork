@@ -45,7 +45,7 @@ namespace GitHubHomeWork
 
             return num1_2;
         }
-        static void Main(string[] args)
+        static void CommonIndex_()
         {
             int[] arr1 = { 1, 5, 5, 10 };
             int[] arr2 = { 3, 4, 5, 5, 10 };
