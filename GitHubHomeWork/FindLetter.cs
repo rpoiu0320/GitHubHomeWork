@@ -8,6 +8,7 @@ namespace GitHubHomeWork
 {
     internal class FindLetter
     {
+        // 문자열 속에 문자 찾기
         // 입력 : pineapple in yummy
         // 출력 : 4
         static void Main(string[] args)
