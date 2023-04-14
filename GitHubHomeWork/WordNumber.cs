@@ -11,7 +11,7 @@ namespace GitHubHomeWork
     // 출력 : 6
     internal class WordNumber
     {
-        static void Main(string[] args)
+        static void WordNumber_(string[] args)
         {
             Console.Write("문자열을 입력해주세요 : ");
             string writing = Console.ReadLine();
