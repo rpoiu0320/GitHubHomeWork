@@ -19,7 +19,7 @@
             }
             return true;
         }
-        static void Main(string[] args)
+        static void DecimalDiscrimination()
         {
             Console.Write("정수를 입력해주세요 : ");
             int inPutNum = int.Parse(Console.ReadLine());
