@@ -67,5 +67,10 @@ namespace GitHubHomeWork
             }
         }
 
+        public static void main()
+        {
+            CommonIndex_();
+        }
+
     }
 }

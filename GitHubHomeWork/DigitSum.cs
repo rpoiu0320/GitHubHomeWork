@@ -36,7 +36,7 @@ namespace GitHubHomeWork
             }
             return sumNum;
         }
-        static void DigitSum(string[] args)
+        static void DigitSum_(string[] args)
         {
             Console.Write("양의 정수를 입력해주세요 : ");
             uint inPutNum = uint.Parse(Console.ReadLine());     // 양의 정수만 입력받고

@@ -11,7 +11,7 @@ namespace GitHubHomeWork
         // 문자열 속에 문자 찾기
         // 입력 : pineapple in yummy
         // 출력 : 4
-        static void Main(string[] args)
+        static void FindLetter_(string[] args)
         {
             Console.Write("문자열을 입력해주세요. : ");
             string sentence = Console.ReadLine();
